@@ -1,0 +1,11 @@
+.env
+.git
+.github
+.venv
+__pycache__
+*.py[cod]
+*.sqlite3
+.codex
+AGENTS.override.md
+.pytest_cache
+.ruff_cache
